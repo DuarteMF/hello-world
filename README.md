@@ -1,2 +1,4 @@
 # hello-world
-An introductory repository, to learn the workings of GitHub
+------
+
+An example change made in a branch not the master one
